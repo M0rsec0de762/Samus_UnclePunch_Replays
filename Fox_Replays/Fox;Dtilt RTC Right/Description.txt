@@ -1,5 +1,5 @@
 Version of Uncle Punch Used:
-7.2 Alpha
+Version 3.0; 7.2 Alpha
 
 Recording Description:
 Samus is on the left. Samus is facing right. 
