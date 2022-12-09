@@ -1,0 +1,14 @@
+Version of Uncle Punch Used:
+Version 3.0; 7.2 Alpha
+
+Recording Description:
+Samus is on the right. Samus is facing left. 
+Captain Falcon is on the left. Captain Falcon is facing right.
+
+The recording begins during Samus' dtilt's startup frames. The Captain Falcon is hit by dtilt and performs function, based on the CPU Recording Slot.
+
+CPU Recording Slot Description:
+1. Tech In Place
+2. Tech Left
+3. Tech Right
+4. No Tech -> Immediate Get-up
