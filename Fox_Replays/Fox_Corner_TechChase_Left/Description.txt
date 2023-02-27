@@ -1,0 +1,14 @@
+Version of Uncle Punch Used:
+Version 3.0; 7.2 Alpha
+
+Recording Description:
+Samus is on the right. Samus is facing left. 
+Fox is on the left. Fox is facing right.
+
+The recording begins during Samus' dash attack's end frames, near the left ledge of the stage. The fox is hit by dash attack and does not tech. Fox then performs function, based on the CPU Recording Slot.
+
+CPU Recording Slot Description:
+1. Get Up Attack
+2. Regular Getup
+3. Roll Right
+4. Roll Left
