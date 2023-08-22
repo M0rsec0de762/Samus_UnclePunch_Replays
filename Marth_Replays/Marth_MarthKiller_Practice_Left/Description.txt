@@ -1,0 +1,15 @@
+Version of Uncle Punch Used:
+Version 3.0; 7.2 Alpha
+
+Recording Description:
+Samus and Marth on the left side of FD.
+
+The recording begins with marth jumping off of the left side of FD
+
+CPU Recording Slot Description:
+1. Ledge Sweet Spot up B
+2. Non Sweet-spotted up B to ledge
+3. Another Sweet Spot up B
+4. Another Non Sweet-spotted up B to ledge
+5. Up B to stage
+6. Another Up B to stage
